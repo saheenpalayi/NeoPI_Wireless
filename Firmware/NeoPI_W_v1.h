@@ -5,12 +5,12 @@
     NeoPI_W_v1.h
     Part of Grbl_ESP32
 
-    Pin assignments for the ESP32 Development Controller, v4.1 and later.
-    https://github.com/bdring/Grbl_ESP32_Development_Controller
-    https://www.tindie.com/products/33366583/grbl_esp32-cnc-development-board-v35/
+    Pin assignments for the NeoPI Wireless CNC Controller(3-axis), v1.0 and later.
+    https://github.com/saheenpalayi/NeoPI_Wireless
 
     2018    - Bart Dring
     2020    - Mitch Bradley
+    2022    - Saheen Palayi
 
     Grbl_ESP32 is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
