@@ -1,7 +1,7 @@
 # Neoπ Wireless CNC Controller (3-axis) 
-
+![](Images/NeoPI-W-v1.0.jpg)
 ## Project Overview
-This project was made for ESP32 based 3-Axis Milling Machines. I started this project During my time at the FAB LAB Kerala for an awesome project Called [FAB Neo](https://fab.cba.mit.edu/classes/865.21/people/rahul/) by [Rahul s Rajan](https://github.com/rahulsarchive). He was developing an Open source fully compact easy to Use PCB Milling Machine Over the years.
+This project was made for ESP32 based 3-Axis Milling Machines. I started this project During my time at the FAB LAB Kerala for an awesome project Called [FAB Neo](https://fab.cba.mit.edu/classes/865.21/people/rahul/) by Rahul s Rajan. He was developing an Open source fully compact easy to Use PCB Milling Machine Over the years.
 
 ## Fetures of Neoπ Wireless CNC Controller
 - NodeMCU-32 ESP32 38 Pin  Board based Controller
@@ -19,7 +19,7 @@ This project was made for ESP32 based 3-Axis Milling Machines. I started this pr
 
 ## Firmware
 
-- Use [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) with [NeoPI_W_v1.h](https://github.com/bdring/Grbl_Esp32/blob/master/Grbl_Esp32/Machines/spi_daisy_4axis.h) machine file
+- Use [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) with [NeoPI_W_v1.h](https://github.com/saheenpalayi/NeoPI_Wireless/blob/main/Firmware/NeoPI_W_v1.h) machine file
 
 ## Credits
 The Grbl_ESP32 firmware and the ESP32 Hardware is a well-written Open source Project by [bdring](https://github.com/bdring) A K A Barton Dring.
