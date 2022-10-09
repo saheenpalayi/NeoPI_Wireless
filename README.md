@@ -1,7 +1,7 @@
 # Neoπ Wireless CNC Controller (3-axis) 
 
 ## Project Overview
-This project was made for ESP32 based 3-Axis Milling Machines. I started this project During my time at the FAB LAB Kerala for an awesome project Called [FAB Neo](https://fab.cba.mit.edu/classes/865.21/people/rahul/) by Rahul s Rajan. He was developing an Open source fully compact easy to Use PCB Milling Machine Over the years.
+This project was made for ESP32 based 3-Axis Milling Machines. I started this project During my time at the FAB LAB Kerala for an awesome project Called [FAB Neo](https://fab.cba.mit.edu/classes/865.21/people/rahul/) by [Rahul s Rajan](https://github.com/rahulsarchive). He was developing an Open source fully compact easy to Use PCB Milling Machine Over the years.
 
 ## Fetures of Neoπ Wireless CNC Controller
 - NodeMCU-32 ESP32 38 Pin  Board based Controller
