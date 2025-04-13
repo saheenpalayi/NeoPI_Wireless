@@ -17,6 +17,25 @@ This project was made for ESP32 based 3-Axis Milling Machines. I started this pr
 
 ** Optional The board works even without this feature.
 
+## Hardware Pin Mapping
+
+| Sl No | Pin-Names | GPIO |
+| --- | --- | --- |
+| 1 | X_Dir | GPIO26 |
+| 2 | X_Step | GPIO12 |
+| 3 | Y_Dir | GPIO25 |
+| 4 | Y_Step | GPIO14 |
+| 5 | Z_Dir | GPIO33 |
+| 6 | Z_Step | GPIO27 |
+| 7 | X_limit | GPIO21 |
+| 8 | Y_limit | GPIO4 |
+| 9 | Z_limit | GPIO15 |
+| 10 | Stepper_disable | GPIO13 |
+| 11 | Spindle | GPIO17 |
+| 12 | PB1 | GPIO32 |
+| 13 | PB2 | GPIO22 |
+
+
 ## Firmware
 
 - Use [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) with [NeoPI_W_v1.h](https://github.com/saheenpalayi/NeoPI_Wireless/blob/main/Firmware/NeoPI_W_v1.h) machine file
