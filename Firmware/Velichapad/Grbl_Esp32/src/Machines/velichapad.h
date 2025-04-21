@@ -35,8 +35,8 @@
 #define UART1_ENABLE  // Enable UART1 for the second serial port (ESP32 only)
 
 #ifdef UART1_ENABLE
-    #define UART1_TX_PIN GPIO_NUM_22 // Tx pin for the second serial port (ESP32 only)
-    #define UART1_RX_PIN GPIO_NUM_32 // Rx pin for the second serial port (ESP32 only)
+    #define UART1_TX_PIN GPIO_NUM_32 // Tx pin for the second serial port (ESP32 only)
+    #define UART1_RX_PIN GPIO_NUM_17 // Rx pin for the second serial port (ESP32 only)
     #define UART1_BAUDRATE 115200 // Baudrate for the second serial port (ESP32 only)
 #endif
 

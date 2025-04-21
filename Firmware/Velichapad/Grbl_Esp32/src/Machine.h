@@ -7,7 +7,7 @@
 
 // !!! For initial testing, start with test_drive.h which disables
 // all I/O pins
-#include "Machines/velichapad.h"
+#include "Machines/Velichapad.h"
 // #    include "Machines/test_drive.h"
 
 // !!! For actual use, change the line above to select a board
